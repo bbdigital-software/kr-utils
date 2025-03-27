@@ -75,7 +75,3 @@ python doks dump_all bucket-name-1 bucket-name-2
 - `tqdm`: Progress bars for visual feedback during downloads
 - PostgreSQL's `pg_dump` utility (system-level dependency)
 
-## License
-
-Specify your repository's license here (e.g., MIT License).
-```
