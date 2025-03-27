@@ -12,7 +12,7 @@ Ensure Python (3.8+) is installed on your system.
 Clone this repository and install required Python packages:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/bbdigital-software/kr-utils.git
 cd doks
 pip install -r requirements.txt
 ```
